@@ -29,7 +29,7 @@ class App extends React.Component {
 
     return (
       <div className="App">
-        <h1>iRobot</h1>
+        <h1 className="heading">iRobot</h1>
         <SearchBox
           placeholder="search robots"
           handleChange={this.handleChange}
