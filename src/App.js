@@ -30,7 +30,10 @@ class App extends React.Component {
     return (
       <div className="App">
         <h1>iRobot</h1>
-        <SearchBox placeholder="search robots" handleChange={this.handleChange} />
+        <SearchBox
+          placeholder="search robots"
+          handleChange={this.handleChange}
+        />
         <CardList robots={filteredRobots} />
       </div>
     )
