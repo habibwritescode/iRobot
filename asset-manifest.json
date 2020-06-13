@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/iRobot/static/css/main.3074c649.chunk.css",
+    "main.js": "/iRobot/static/js/main.cb725b2b.chunk.js",
+    "main.js.map": "/iRobot/static/js/main.cb725b2b.chunk.js.map",
+    "runtime-main.js": "/iRobot/static/js/runtime-main.c1addb97.js",
+    "runtime-main.js.map": "/iRobot/static/js/runtime-main.c1addb97.js.map",
+    "static/js/2.62cea425.chunk.js": "/iRobot/static/js/2.62cea425.chunk.js",
+    "static/js/2.62cea425.chunk.js.map": "/iRobot/static/js/2.62cea425.chunk.js.map",
+    "index.html": "/iRobot/index.html",
+    "precache-manifest.4c64463c84ec6d61e94ff0db6b707be8.js": "/iRobot/precache-manifest.4c64463c84ec6d61e94ff0db6b707be8.js",
+    "service-worker.js": "/iRobot/service-worker.js",
+    "static/css/main.3074c649.chunk.css.map": "/iRobot/static/css/main.3074c649.chunk.css.map",
+    "static/js/2.62cea425.chunk.js.LICENSE.txt": "/iRobot/static/js/2.62cea425.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c1addb97.js",
+    "static/js/2.62cea425.chunk.js",
+    "static/css/main.3074c649.chunk.css",
+    "static/js/main.cb725b2b.chunk.js"
+  ]
+}
